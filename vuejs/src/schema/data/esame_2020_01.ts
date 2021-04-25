@@ -98,7 +98,7 @@ class B extends A implements J {
          return (s.length() - a.s.length());
      }
  }`,
-            solution: ['3\\n8\\n11\\n']
+            solution: ['3\n8\n11\n']
         },
         {
             code: `public class Test {
